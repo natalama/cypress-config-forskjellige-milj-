@@ -20,6 +20,7 @@ Kjører du programmet for første gang er det lurt å kjøre `npm install`.\
 Det viktigste å kopiere her er følgende: 
 - hele `config` mappe
 - cypress.config.js
+- package.json
 
 Kos deg med testautomatisering.
 
