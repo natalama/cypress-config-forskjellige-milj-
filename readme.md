@@ -11,6 +11,8 @@ For å kjøre testene kan du bruke `npm run cy:run:{miljø}`
 - atm
 - prod
 
+Logikken bak hvordan man henter riktig fil basert på konfig ligger i `cypress.config.js`
+
 Kjører du programmet for første gang er det lurt å kjøre `npm install`.\
 Kopier gjerne koden og kos deg med testautomatisering.
 
