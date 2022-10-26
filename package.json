@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "cypress": "^10.11.0"
+  },
+  "scripts": {
+    "cy:open:stm": "cypress open --env miljo=stm",
+    "cy:open:atm": "cypress open --env miljo=atm",
+    "cy:open:prod": "cypress open --env miljo=prod",
+    "cy:run:stm": "cypress run --env miljo=stm",
+    "cy:run:atm": "cypress run --env miljo=atm",
+    "cy:run:prod": "cypress run --env miljo=prod"
+  }
+}
